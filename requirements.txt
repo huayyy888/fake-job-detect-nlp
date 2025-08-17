@@ -3,7 +3,9 @@ scikit-learn
 pandas
 numpy
 imbalanced-learn
-lime
 beautifulsoup4
 nltk
 joblib
+torch
+transformers
+accelerate
